@@ -1,0 +1,16 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "nombre": "Harry Potter el caliz de fuego",
+            "autor": 1,
+            "año": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Viaje al centro de la tierra",
+            "autor": 1,
+            "año": 1
+        }
+    ]
+}
